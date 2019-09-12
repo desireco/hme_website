@@ -60,10 +60,12 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/slides/slide01.jpg': '0% 35%',
-							'images/slides/slide02.jpg': 'center',
-							'images/slides/slide03.jpg': 'center',
-							'images/slides/slide04.jpg': 'center'
+							'images/slides/ahmed-hasan-Lvon5hPT818-unsplash.jpg': '0% 35%',
+							'images/slides/jan-tinneberg-tVIv23vcuz4-unsplash.jpg': 'center',
+							'images/slides/lina-trochez-ktPKyUs3Qjs-unsplash.jpg': 'center',
+							'images/slides/marc-olivier-jodoin-TStNU7H4UEE-unsplash.jpg': 'center',
+							'images/slides/miguel-bruna-TzVN0xQhWaQ-unsplash.jpg': 'center',
+							'images/slides/ravi-roshan-_AdUs32i0jc-unsplash.jpg': 'center'
 						},
 
 					// Delay.
@@ -348,9 +350,9 @@
 			});
 
 	// Tabs.
-		$('.tabs').selectorr({
-			titleSelector: 'h3',
-			delay: 250
-		});
+		// $('.tabs').selector({
+		// 	titleSelector: 'h3',
+		// 	delay: 250
+		// });
 
 })(jQuery);

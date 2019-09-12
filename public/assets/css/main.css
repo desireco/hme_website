@@ -3511,7 +3511,7 @@ input, select, textarea {
 
 		.split .contact-icons {
 			margin-bottom: 0;
-			padding-left: 4rem;
+			padding-left: 3rem;
 		}
 
 	@media screen and (max-width: 1280px) {
