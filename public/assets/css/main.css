@@ -4306,8 +4306,8 @@ input, select, textarea {
 			margin: 0 auto;
 			padding-bottom: 3rem;
 			position: relative;
-			text-align-last: justify;
-			text-align: justify;
+			/* text-align-last: justify;
+			text-align: justify; */
 			opacity: 0.95;
 		}
 
